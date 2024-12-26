@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HOC TAP\\HOC KY 5\\ASP\\Code\\FinalTest1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|d:\\hoc tap\\hoc ky 5\\asp\\code\\finaltest1\\finaltest1\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|solutionrelative:finaltest1\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|d:\\hoc tap\\hoc ky 5\\asp\\code\\finaltest1\\finaltest1\\views\\nhanviens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|solutionrelative:finaltest1\\views\\nhanviens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|d:\\hoc tap\\hoc ky 5\\asp\\code\\finaltest1\\finaltest1\\views\\nhanviens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|solutionrelative:finaltest1\\views\\nhanviens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|D:\\HOC TAP\\HOC KY 5\\ASP\\Code\\FinalTest1\\finaltest1\\models\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|solutionrelative:finaltest1\\models\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\HOC TAP\\HOC KY 5\\ASP\\Code\\FinalTest1\\FinalTest1\\Models\\NhanVien.cs",
+              "RelativeDocumentMoniker": "FinalTest1\\Models\\NhanVien.cs",
+              "ToolTip": "D:\\HOC TAP\\HOC KY 5\\ASP\\Code\\FinalTest1\\FinalTest1\\Models\\NhanVien.cs",
+              "RelativeToolTip": "FinalTest1\\Models\\NhanVien.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:33:51.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\HOC TAP\\HOC KY 5\\ASP\\Code\\FinalTest1\\FinalTest1\\Views\\NhanViens\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FinalTest1\\Views\\NhanViens\\Edit.cshtml",
+              "ToolTip": "D:\\HOC TAP\\HOC KY 5\\ASP\\Code\\FinalTest1\\FinalTest1\\Views\\NhanViens\\Edit.cshtml",
+              "RelativeToolTip": "FinalTest1\\Views\\NhanViens\\Edit.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T07:32:29.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\HOC TAP\\HOC KY 5\\ASP\\Code\\FinalTest1\\FinalTest1\\Views\\NhanViens\\Create.cshtml",
+              "RelativeDocumentMoniker": "FinalTest1\\Views\\NhanViens\\Create.cshtml",
+              "ToolTip": "D:\\HOC TAP\\HOC KY 5\\ASP\\Code\\FinalTest1\\FinalTest1\\Views\\NhanViens\\Create.cshtml",
+              "RelativeToolTip": "FinalTest1\\Views\\NhanViens\\Create.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T07:32:23.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Taikhoan.cs",
+              "DocumentMoniker": "D:\\HOC TAP\\HOC KY 5\\ASP\\Code\\FinalTest1\\FinalTest1\\Models\\Taikhoan.cs",
+              "RelativeDocumentMoniker": "FinalTest1\\Models\\Taikhoan.cs",
+              "ToolTip": "D:\\HOC TAP\\HOC KY 5\\ASP\\Code\\FinalTest1\\FinalTest1\\Models\\Taikhoan.cs",
+              "RelativeToolTip": "FinalTest1\\Models\\Taikhoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T04:25:11.552Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

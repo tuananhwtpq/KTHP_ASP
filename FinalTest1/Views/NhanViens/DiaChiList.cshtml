@@ -1,0 +1,14 @@
+﻿@model IEnumerable<FinalTest1.Models.Phong>
+
+@foreach (var l in Model)
+{
+    <!--<li >
+        <-->@*a href="/Phongs/ListNv/@l.Maphong"
+           class="text-align-center justify-content-center text-white"
+           style="margin:10px; text-decoration:none">
+            @l.Tenphong
+        </a>*@
+        <!--</li>-->
+
+        <li>@Html.ActionLink(l.Tenphong, "ListPhong", "NhanViens", new { id = l.Maphong }, new { @class = "nav-link" })</li>
+    }
